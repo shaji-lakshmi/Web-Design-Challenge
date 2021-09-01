@@ -1,0 +1,53 @@
+body{
+    font-size: 23px;
+    background-color: white;
+}
+
+#intro{
+    margin-top: 2%;
+}
+.col-bg{
+    text-align: center;
+    background-color: rgba(0, 128, 128, 0.288);
+}
+h3{
+    background-color: teal;
+    padding:3%;
+    font-weight: bolder;
+    color: white;
+}
+p{
+    margin-top: 5%;
+}
+
+#plot-nav{
+    text-align: center;
+}
+#plot-nav img{
+    padding: 1.5%;
+    width: 350px;
+}
+
+nav{
+    background-color: grey;
+  
+}
+
+.navbar-brand{
+    font-size: 25px;
+    padding: 1%;
+    font-weight: bolder;
+    background-color: rgba(0, 128, 128, 0.288) ;
+}
+
+a{
+    color: white;
+}
+
+.nav-link{
+    color: white;
+}
+
+.active-plot{
+    border: 5px solid teal;
+}
